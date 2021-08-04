@@ -4,5 +4,6 @@ core.python*
 env.py
 __pycache__/
 *.py[cod]
+creds.json
 node_modules/
 .github/
